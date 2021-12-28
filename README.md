@@ -1,16 +1,4 @@
-# Console-strategy-game-praxissemester-2020
+Roundbased strategy game in Console. Created to learn the C# language. 
 
-A strategy game made in experimental Voxel Engine. It offers both Single- and Multiplayer. 
-
-# Gameplay
-![alt text](GameBoard.png) 
-![alt text](BuildProduction.png)
-
-## Multiplayer
-![alt text](MultiplayerGame.png)
-
-# Menus
-![alt text](StartMenu.png)
-![alt text](CustomSettings.png)
 
 
