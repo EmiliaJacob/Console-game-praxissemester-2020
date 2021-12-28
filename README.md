@@ -9,7 +9,7 @@ A strategy game made in experimental Voxel Engine. It offers both Single- and Mu
 ## Multiplayer
 ![alt text](MultiplayerGame.png)
 
-# Settings
+# Menus
 ![alt text](StartMenu.png)
 ![alt text](CustomSettings.png)
 
