@@ -1,6 +1,6 @@
 # Console-strategy-game-praxissemester-2020
 
-A strategy game made in experimental Voxel Engine. It offers Single and Multiplayer. 
+A strategy game made in experimental Voxel Engine. It offers both Single- and Multiplayer. 
 
 # Gameplay
 ![alt text](GameBoard.png)
