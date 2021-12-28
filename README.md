@@ -3,7 +3,8 @@
 A strategy game made in experimental Voxel Engine. It offers both Single- and Multiplayer. 
 
 # Gameplay
-![alt text](GameBoard.png) ![alt text](BuildProduction.png)
+![alt text](GameBoard.png) 
+![alt text](BuildProduction.png)
 
 ## Multiplayer
 ![alt text](MultiplayerGame.png)
